@@ -1,5 +1,5 @@
 # QUIO
-Quadratic Unconstrained Binary Optimization on PYNQ-Z1
+Quadratic Unconstrained Integer Optimization on PYNQ-Z1
 
 ## Requirements:
 
